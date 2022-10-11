@@ -1,20 +1,20 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-HK">
 <head>
 	<meta charset="UTF-8">
 			<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 			<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="/xmlrpc.php">
     		<link rel="icon" type="image/x-icon" href="/auvus-page/wp-content/uploads/2017/07/product-logo-2.5.jpg">
-	    <title>销售代理 &#8211; Auvus</title>
+	    <title>銷售代理 &#8211; Auvus</title>
 <meta name="robots" content="max-image-preview:large">
 <link rel="alternate" href="/auvus-page/distributors/" hreflang="en">
 <link rel="alternate" href="/auvus-page/zh/distributor-zh/" hreflang="zh-CN">
 <link rel="alternate" href="/auvus-page/hk/distributor-hk/" hreflang="zh-HK">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="Auvus &raquo; Feed" href="/auvus-page/zh/feed/">
-<link rel="alternate" type="application/rss+xml" title="Auvus &raquo; 评论Feed" href="/auvus-page/zh/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="訂閱 Auvus &raquo;" href="/auvus-page/hk/feed/">
+<link rel="alternate" type="application/rss+xml" title="訂閱 Auvus &raquo; 評論" href="/auvus-page/hk/comments/feed/">
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"\/auvus-page\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -56,25 +56,25 @@ img.emoji {
 <script type="text/javascript" src="/auvus-page/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6" id="tp-tools-js"></script>
 <script type="text/javascript" src="/auvus-page/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6" id="revmin-js"></script>
 <link rel="https://api.w.org/" href="/auvus-page/wp-json/">
-<link rel="alternate" type="application/json" href="/auvus-page/wp-json/wp/v2/pages/2603">
+<link rel="alternate" type="application/json" href="/auvus-page/wp-json/wp/v2/pages/2680">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/auvus-page/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 5.7.1">
-<link rel="canonical" href="/auvus-page/zh/distributor-zh/">
-<link rel="shortlink" href="/?p=2603">
-<link rel="alternate" type="application/json+oembed" href="/auvus-page/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fzh%2Fdistributor-zh%2F">
-<link rel="alternate" type="text/xml+oembed" href="/auvus-page/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fzh%2Fdistributor-zh%2F&#038;format=xml">
+<link rel="canonical" href="/auvus-page/hk/distributor-hk/">
+<link rel="shortlink" href="/?p=2680">
+<link rel="alternate" type="application/json+oembed" href="/auvus-page/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fhk%2Fdistributor-hk%2F">
+<link rel="alternate" type="text/xml+oembed" href="/auvus-page/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fhk%2Fdistributor-hk%2F&#038;format=xml">
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="/auvus-page/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="/auvus-page/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
 <style class="cf7-style" media="screen" type="text/css">body .cf7-style.cf7-style-3545 {background-color: #efefef;border-color: #efefef;}body .cf7-style.cf7-style-3545 input {border-bottom-width: 0;border-color: #ffffff;border-left-width: 0;border-right-width: 0;border-top-width: 0;width: 150px;}body .cf7-style.cf7-style-3545 .wpcf7-mail-sent-ok {background-color: #26c9c3;border-color: #26c9c3;color: #fcfcfc;}body .cf7-style.cf7-style-3545 .wpcf7-validation-errors {background-color: #e07743;border-color: #e07743;color: #fcfcfc;}</style>
 <meta name="generator" content="Powered by Slider Revolution 5.2.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1501770241108{background-color: #34d8d8 !important;}.vc_custom_1601257449811{background-color: #f2f2f2 !important;}.vc_custom_1501770422523{background-color: #34d8d8 !important;}.vc_custom_1601256957135{background-color: #f2f2f2 !important;}.vc_custom_1538628024452{background-color: #34d8d8 !important;}.vc_custom_1539004210017{background-color: #f2f2f2 !important;}</style>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1501861790482{background-color: #34d8d8 !important;}.vc_custom_1601257459282{background-color: #f2f2f2 !important;}.vc_custom_1501861882687{background-color: #34d8d8 !important;}.vc_custom_1601256996900{background-color: #f2f2f2 !important;}.vc_custom_1538628217605{background-color: #34d8d8 !important;}.vc_custom_1538628240994{background-color: #f2f2f2 !important;}</style>
 <noscript><style type="text/css">.wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>
 </head>
 
 
-<body class="page-template-default page page-id-2603 themerex_body body_style_wide body_transparent theme_skin_default article_style_boxed layout_single-standard template_single-standard top_panel_style_dark top_panel_opacity_solid top_panel_show top_panel_above menu_right user_menu_hide sidebar_hide wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<body class="page-template-default page page-id-2680 themerex_body body_style_wide body_transparent theme_skin_default article_style_boxed layout_single-standard template_single-standard top_panel_style_dark top_panel_opacity_solid top_panel_show top_panel_above menu_right user_menu_hide sidebar_hide wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
 	
 	
 	
@@ -93,7 +93,7 @@ img.emoji {
 					<div class="content_wrap clearfix">
 						<div class="logo">
                             <span class="logo_shape">
-                                							<a href="/auvus-page/zh/home-zh"><img src="/auvus-page/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_main" alt=""><img src="/auvus-page/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_fixed" alt=""><span class="logo_slogan"> </span></a>
+                                							<a href="/auvus-page/hk/home-hk"><img src="/auvus-page/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_main" alt=""><img src="/auvus-page/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_fixed" alt=""><span class="logo_slogan"> </span></a>
                             </span>
 						</div>
 						
@@ -120,10 +120,10 @@ img.emoji {
 </li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/auvus-page/contact-us/"><span>Contact Us</span></a></li>
 <li id="menu-item-2543" class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2543">
-<a href="#pll_switcher"><span>中文(简體)</span></a>
+<a href="#pll_switcher"><span>中文(繁體)</span></a>
 <ul class="sub-menu">
 	<li id="menu-item-2543-en" class="lang-item lang-item-244 lang-item-en lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-en"><a href="/auvus-page/distributors/" hreflang="en-US" lang="en-US"><span>English</span></a></li>
-	<li id="menu-item-2543-hk" class="lang-item lang-item-299 lang-item-hk menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-hk"><a href="/auvus-page/hk/distributor-hk/" hreflang="zh-HK" lang="zh-HK"><span>中文(繁體)</span></a></li>
+	<li id="menu-item-2543-zh" class="lang-item lang-item-285 lang-item-zh menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-zh"><a href="/auvus-page/zh/distributor-zh/" hreflang="zh-CN" lang="zh-CN"><span>中文(简體)</span></a></li>
 </ul>
 </li>
 </ul>						</nav>
@@ -134,7 +134,7 @@ img.emoji {
 				<div class="top_panel_style_dark page_top_wrap page_top_breadcrumbs">
 											<div class="breadcrumbs">
 							<div class="content_wrap">
-								<a class="breadcrumbs_item home" href="/auvus-page/zh/home-zh">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">销售代理</span>							</div>
+								<a class="breadcrumbs_item home" href="/auvus-page/hk/home-hk">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">銷售代理</span>							</div>
 						</div>
 										<div class="content_wrap">
 											</div>
@@ -145,7 +145,7 @@ img.emoji {
 				
 <div class="content_wrap">
 <div class="content">
-<article class="itemscope post_item post_item_single post_featured_default post_format_standard post-2603 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article">
+<article class="itemscope post_item post_item_single post_featured_default post_format_standard post-2680 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article">
 <section class="post_content" itemprop="articleBody"><div class="sc_reviews alignright"><!-- #TRX_REVIEWS_PLACEHOLDER# --></div>
 <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
 <div class="columns_wrap sc_columns columns_nofluid sc_columns_count_1"><div class="column-1_1 sc_column_item sc_column_item_1 odd first"><div class="vc_row wpb_row vc_inner vc_row-fluid">
@@ -155,17 +155,17 @@ img.emoji {
 <h2 class="sc_title sc_title_regular">销售代理</h2>
 <div class="vc_empty_space" style="height: 3.125em"><span class="vc_empty_space_inner"></span></div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1501770241108">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1501861790482">
 		<div class="wpb_wrapper">
-			<p style="color: white; font-size: 2em; margin-left: 1vw;">中国</p>
+			<p style="color: white; font-size: 2em; margin-left: 1vw;">中國</p>
 
 		</div>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1601257449811">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1601257459282">
 		<div class="wpb_wrapper">
 			<p style="color: #f2f2f2;">0</p>
-<p style="color: black; margin-left: 1vw;"><span style="font-weight: bold;">黄展雄</span><br>
+<p style="color: black; margin-left: 1vw;"><span style="font-weight: bold;">黃展雄</span><br>
 Tel: 86-138-2211-1564</p>
 <p style="color: black; margin-left: 1vw;"><span style="font-weight: bold;">Ms. Maggie</span><br>
 Tel: 86-139-2419-3088</p>
@@ -174,35 +174,36 @@ Tel: 86-139-2419-3088</p>
 		</div>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1501770422523">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1501861882687">
 		<div class="wpb_wrapper">
 			<p style="color: white; font-size: 2em; margin-left: 1vw;">香港</p>
 
 		</div>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1601256957135">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1601256996900">
 		<div class="wpb_wrapper">
 			<p style="color: #f2f2f2;">0</p>
-<p style="color: black; margin-left: 1vw;"><span style="font-weight: bold;">Ms. Anna</span><br>
+<p style="color: black; margin-left: 1vw;"><b>Ms. Anna</b><br>
 Tel: 852-9155-1935</p>
 <p style="color: #f2f2f2;">0</p>
 
 		</div>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1538628024452">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1538628217605">
 		<div class="wpb_wrapper">
-			<p style="color: white; font-size: 2em; margin-left: 1vw;">澳大利亚 (西澳)</p>
+			<p style="color: white; font-size: 2em; margin-left: 1vw;">澳州 (西澳)</p>
 
 		</div>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1539004210017">
+	<div class="wpb_text_column wpb_content_element  vc_custom_1538628240994">
 		<div class="wpb_wrapper">
 			<p style="color: #f2f2f2;">0</p>
 <p style="color: black; margin-left: 1vw;"><strong>岑杰</strong><br>
 Tel: 61-4-2260-2733</p>
+<p style="color: #f2f2f2;">0</p>
 
 		</div>
 	</div>
@@ -210,8 +211,8 @@ Tel: 61-4-2260-2733</p>
 
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p>有关于分销或代理的问题，请联络我们：<br>
-info@auvus.com</p>
+			<p>有關於分銷或代理的問題，請聯絡我們：<br>
+info@47.242.71.16</p>
 
 		</div>
 	</div>
@@ -228,7 +229,7 @@ info@auvus.com</p>
 	</div>
 </div></div></div></div>
 				</section> <!-- </section> class="post_content" itemprop="articleBody"> -->
-			</article> <!-- </article> class="itemscope post_item post_item_single post_featured_default post_format_standard post-2603 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article"> -->	<section class="related_wrap related_wrap_empty"></section>
+			</article> <!-- </article> class="itemscope post_item post_item_single post_featured_default post_format_standard post-2680 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article"> -->	<section class="related_wrap related_wrap_empty"></section>
 	
 		</div> <!-- </div> class="content"> -->
 	</div> <!-- </div> class="content_wrap"> -->			
@@ -262,7 +263,7 @@ var wpcf7 = {"api":{"root":"\/auvus-page\/wp-json\/","namespace":"contact-form-7
 <script type="text/javascript" src="/auvus-page/wp-content/themes/gym/fw/js/jquery.slidemenu.js" id="themerex-slidemenu-script-js"></script>
 <script type="text/javascript" src="/auvus-page/wp-content/themes/gym/fw/js/core.utils.js" id="themerex-core-utils-script-js"></script>
 <script type="text/javascript" src="/auvus-page/wp-content/themes/gym/fw/js/core.init.js" id="themerex-core-init-script-js"></script>
-<script type="text/javascript" id="mediaelement-core-js-before">var mejsL10n = {"language":"zh","strings":{"mejs.download-file":"下载文件","mejs.install-flash":"您正在使用的浏览器未安装或启用Flash播放器，请启用您的Flash播放器插件，或从 https:\/\/get.adobe.com\/flashplayer\/ 下载最新版。","mejs.fullscreen":"全屏","mejs.play":"播放","mejs.pause":"暂停","mejs.time-slider":"时间轴","mejs.time-help-text":"使用左\/右箭头键来前进一秒，上\/下箭头键来前进十秒。","mejs.live-broadcast":"现场直播","mejs.volume-help-text":"使用上\/下箭头键来增高或降低音量。","mejs.unmute":"取消静音","mejs.mute":"静音","mejs.volume-slider":"音量","mejs.video-player":"视频播放器","mejs.audio-player":"音频播放器","mejs.captions-subtitles":"说明文字或字幕","mejs.captions-chapters":"章节","mejs.none":"无","mejs.afrikaans":"南非荷兰语","mejs.albanian":"阿尔巴尼亚语","mejs.arabic":"阿拉伯语","mejs.belarusian":"白俄罗斯语","mejs.bulgarian":"保加利亚语","mejs.catalan":"加泰罗尼亚语","mejs.chinese":"中文","mejs.chinese-simplified":"中文（简体）","mejs.chinese-traditional":"中文(（繁体）","mejs.croatian":"克罗地亚语","mejs.czech":"捷克语","mejs.danish":"丹麦语","mejs.dutch":"荷兰语","mejs.english":"英语","mejs.estonian":"爱沙尼亚语","mejs.filipino":"菲律宾语","mejs.finnish":"芬兰语","mejs.french":"法语","mejs.galician":"加利西亚语","mejs.german":"德语","mejs.greek":"希腊语","mejs.haitian-creole":"海地克里奥尔语","mejs.hebrew":"希伯来语","mejs.hindi":"印地语","mejs.hungarian":"匈牙利语","mejs.icelandic":"冰岛语","mejs.indonesian":"印度尼西亚语","mejs.irish":"爱尔兰语","mejs.italian":"意大利语","mejs.japanese":"日语","mejs.korean":"韩语","mejs.latvian":"拉脱维亚语","mejs.lithuanian":"立陶宛语","mejs.macedonian":"马其顿语","mejs.malay":"马来语","mejs.maltese":"马耳他语","mejs.norwegian":"挪威语","mejs.persian":"波斯语","mejs.polish":"波兰语","mejs.portuguese":"葡萄牙语","mejs.romanian":"罗马尼亚语","mejs.russian":"俄语","mejs.serbian":"塞尔维亚语","mejs.slovak":"斯洛伐克语","mejs.slovenian":"斯洛文尼亚语","mejs.spanish":"西班牙语","mejs.swahili":"斯瓦希里语","mejs.swedish":"瑞典语","mejs.tagalog":"他加禄语","mejs.thai":"泰语","mejs.turkish":"土耳其语","mejs.ukrainian":"乌克兰语","mejs.vietnamese":"越南语","mejs.welsh":"威尔士语","mejs.yiddish":"意第绪语"}};</script>
+<script type="text/javascript" id="mediaelement-core-js-before">var mejsL10n = {"language":"zh","strings":{"mejs.download-file":"下載檔案","mejs.install-flash":"您正在使用未啟用或安裝Flash播放器的瀏覽器。請打開您的Flash Player外掛程式或從https:\/\/get.adobe.com\/flashplayer\/ 下載最新版本","mejs.fullscreen":"全螢幕","mejs.play":"播放","mejs.pause":"暂停","mejs.time-slider":"時間軸","mejs.time-help-text":"使用左\/右鍵進退每一秒，向上\/向下進退每十秒。","mejs.live-broadcast":"直播","mejs.volume-help-text":"使用上\/下鍵來增大或減小音量。","mejs.unmute":"取消靜音","mejs.mute":"靜音","mejs.volume-slider":"音量調節","mejs.video-player":"視訊播放器","mejs.audio-player":"音訊播放器","mejs.captions-subtitles":"字幕","mejs.captions-chapters":"章節","mejs.none":"無","mejs.afrikaans":"南非文","mejs.albanian":"阿爾巴尼亞文","mejs.arabic":"阿拉伯文","mejs.belarusian":"白俄文","mejs.bulgarian":"保加利亞文","mejs.catalan":"加泰羅尼亞文","mejs.chinese":"中文","mejs.chinese-simplified":"中文 (簡體)","mejs.chinese-traditional":"中文 (繁體)","mejs.croatian":"克羅地亞文","mejs.czech":"捷克文","mejs.danish":"丹麥文","mejs.dutch":"荷蘭文","mejs.english":"英文","mejs.estonian":"愛沙尼亞文","mejs.filipino":"菲律賓文","mejs.finnish":"芬蘭文","mejs.french":"法文","mejs.galician":"加利西亞文","mejs.german":"德文","mejs.greek":"希臘文","mejs.haitian-creole":"海地克里奧爾文","mejs.hebrew":"希伯來文","mejs.hindi":"印地文","mejs.hungarian":"匈牙利文","mejs.icelandic":"冰島文","mejs.indonesian":"印尼文","mejs.irish":"愛爾蘭文","mejs.italian":"意大利文","mejs.japanese":"日文","mejs.korean":"韓文","mejs.latvian":"拉托維亞文","mejs.lithuanian":"立陶宛文","mejs.macedonian":"馬其頓文","mejs.malay":"馬來文","mejs.maltese":"馬爾他文","mejs.norwegian":"挪威文","mejs.persian":"波斯文","mejs.polish":"波蘭文","mejs.portuguese":"葡萄牙文","mejs.romanian":"羅馬尼亞文","mejs.russian":"俄文","mejs.serbian":"塞爾維亞文","mejs.slovak":"斯洛伐克文","mejs.slovenian":"斯洛文尼亞文","mejs.spanish":"西班牙文","mejs.swahili":"斯瓦希里文","mejs.swedish":"瑞典文","mejs.tagalog":"塔加拉族文","mejs.thai":"泰文","mejs.turkish":"土耳其文","mejs.ukrainian":"烏克蘭文","mejs.vietnamese":"越南文","mejs.welsh":"威爾士文","mejs.yiddish":"意第緒文"}};</script>
 <script type="text/javascript" src="/auvus-page/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16" id="mediaelement-core-js"></script>
 <script type="text/javascript" src="/auvus-page/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.7.1" id="mediaelement-migrate-js"></script>
 <script type="text/javascript" id="mediaelement-js-extra">

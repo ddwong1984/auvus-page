@@ -6,11 +6,11 @@
 			<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="/xmlrpc.php">
     		<link rel="icon" type="image/x-icon" href="http://47.242.71.16/auvus-page/wp-content/uploads/2017/07/product-logo-2.5.jpg">
-	    <title>WBV Technology &#8211; Auvus</title>
+	    <title>Auvus &#8211; Web site under construction</title>
 <meta name="robots" content="max-image-preview:large">
-<link rel="alternate" href="/wbv-technology/" hreflang="en">
-<link rel="alternate" href="/zh/wbv-technology-zh/" hreflang="zh-CN">
-<link rel="alternate" href="/hk/wbv-technology-hk/" hreflang="zh-HK">
+<link rel="alternate" href="/" hreflang="en">
+<link rel="alternate" href="/zh/home-zh/" hreflang="zh-CN">
+<link rel="alternate" href="/hk/home-hk/" hreflang="zh-HK">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Auvus &raquo; Feed" href="/feed/">
@@ -37,8 +37,8 @@ img.emoji {
 <link rel="stylesheet" id="contact-form-7-css" href="/auvus-page/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1" type="text/css" media="all">
 <link rel="stylesheet" id="rs-plugin-settings-css" href="/auvus-page/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6" type="text/css" media="all">
 <style id="rs-plugin-settings-inline-css" type="text/css">.tp-caption a{color:#e05100;text-shadow:none; text-decoration:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}</style>
-<link rel="stylesheet" id="theme-font-Ubuntu-css" href="https://fonts.googleapis.com/css?family=Ubuntu:100,100italic,300,300italic,400,400italic,700,700italic&#038;subset=latin,latin-ext,cyrillic,cyrillic-ext" type="text/css" media="all">
-<link rel="stylesheet" id="theme-font-Love-Ya-Like-A-Sister-css" href="https://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister:400&#038;subset=latin" type="text/css" media="all">
+<link rel="stylesheet" id="theme-font-Ubuntu-css" href="http://fonts.googleapis.com/css?family=Ubuntu:100,100italic,300,300italic,400,400italic,700,700italic&#038;subset=latin,latin-ext,cyrillic,cyrillic-ext" type="text/css" media="all">
+<link rel="stylesheet" id="theme-font-Love-Ya-Like-A-Sister-css" href="http://fonts.googleapis.com/css?family=Love+Ya+Like+A+Sister:400&#038;subset=latin" type="text/css" media="all">
 <link rel="stylesheet" id="themerex-fontello-style-css" href="/auvus-page/wp-content/themes/gym/css/fontello/css/fontello.css" type="text/css" media="all">
 <link rel="stylesheet" id="themerex-shortcodes-style-css" href="/auvus-page/wp-content/themes/gym/fw/shortcodes/shortcodes.css" type="text/css" media="all">
 <link rel="stylesheet" id="themerex-animation-style-css" href="/auvus-page/wp-content/themes/gym/fw/css/core.animation.css" type="text/css" media="all">
@@ -56,14 +56,14 @@ img.emoji {
 <script type="text/javascript" src="/auvus-page/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6" id="tp-tools-js"></script>
 <script type="text/javascript" src="/auvus-page/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6" id="revmin-js"></script>
 <link rel="https://api.w.org/" href="/auvus-page/wp-json/">
-<link rel="alternate" type="application/json" href="/auvus-page/wp-json/wp/v2/pages/2081">
+<link rel="alternate" type="application/json" href="/auvus-page/wp-json/wp/v2/pages/2018">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/auvus-page/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 5.7.1">
-<link rel="canonical" href="/wbv-technology/">
-<link rel="shortlink" href="/?p=2081">
-<link rel="alternate" type="application/json+oembed" href="/auvus-page/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fwbv-technology%2F">
-<link rel="alternate" type="text/xml+oembed" href="/auvus-page/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fwbv-technology%2F&#038;format=xml">
+<link rel="canonical" href="/">
+<link rel="shortlink" href="/">
+<link rel="alternate" type="application/json+oembed" href="/auvus-page/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F">
+<link rel="alternate" type="text/xml+oembed" href="/auvus-page/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F&#038;format=xml">
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.auvus.com/auvus-page/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://www.auvus.com/auvus-page/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
@@ -73,7 +73,7 @@ img.emoji {
 </head>
 
 
-<body class="page-template-default page page-id-2081 themerex_body body_style_wide body_transparent theme_skin_default article_style_boxed layout_single-standard template_single-standard top_panel_style_dark top_panel_opacity_solid top_panel_show top_panel_above menu_right user_menu_hide sidebar_hide wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<body class="home page-template-default page page-id-2018 themerex_body body_style_wide body_transparent theme_skin_default article_style_boxed layout_single-standard template_single-standard top_panel_style_dark top_panel_opacity_transparent top_panel_show top_panel_over menu_right user_menu_hide sidebar_hide wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
 	
 	
 	
@@ -85,14 +85,14 @@ img.emoji {
 						
 			<div class="top_panel_fixed_wrap"></div>
 
-			<header class="top_panel_wrap bg_tint_dark bg_type_image" style="background-size: 654px auto !important;  background: url(/auvus-page/wp-content/themes/gym/skins/default/images/bg_over.png) repeat-x center bottom,url(http://47.242.71.16/auvus-page/wp-content/uploads/2017/07/2.2a.png) no-repeat right bottom #e15558; border-top-color: #e15558;">
+			<header class="top_panel_wrap bg_tint_dark bg_type_image" style="background-color: #e15558;">
 				
 				
 				<div class="menu_main_wrap logo_left">
 					<div class="content_wrap clearfix">
 						<div class="logo">
                             <span class="logo_shape">
-                                							<a href="/"><img src="http://47.242.71.16/auvus-page/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_main" alt=""><img src="http://47.242.71.16/auvus-page/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_fixed" alt=""><span class="logo_slogan"> </span></a>
+                                							<a href="/"><img src="/auvus-page/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_main" alt=""><img src="/auvus-page/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_fixed" alt=""><span class="logo_slogan"> </span></a>
                             </span>
 						</div>
 						
@@ -101,10 +101,10 @@ img.emoji {
 	
 						<nav role="navigation" class="menu_main_nav_area" style=" background-color: #e15558; border-top-color: #e15558; border-bottom-color: #e15558;">
 							<ul id="menu_main" class="menu_main_nav">
-<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-2087">
+<li id="menu-item-2087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2087">
 <a href="/benefits-of-wbv/"><span>WBV</span></a>
 <ul class="sub-menu">
-	<li id="menu-item-2086" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2081 current_page_item menu-item-2086"><a href="/wbv-technology/" aria-current="page"><span>WBV Technology</span></a></li>
+	<li id="menu-item-2086" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2086"><a href="/wbv-technology/"><span>WBV Technology</span></a></li>
 	<li id="menu-item-2272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2272"><a href="/benefits-of-wbv/"><span>Benefits of WBV</span></a></li>
 </ul>
 </li>
@@ -121,8 +121,8 @@ img.emoji {
 <li id="menu-item-2543" class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2543">
 <a href="#pll_switcher"><span>English</span></a>
 <ul class="sub-menu">
-	<li id="menu-item-2543-zh" class="lang-item lang-item-285 lang-item-zh lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-zh"><a href="/zh/wbv-technology-zh/" hreflang="zh-CN" lang="zh-CN"><span>中文(简體)</span></a></li>
-	<li id="menu-item-2543-hk" class="lang-item lang-item-299 lang-item-hk menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-hk"><a href="/hk/wbv-technology-hk/" hreflang="zh-HK" lang="zh-HK"><span>中文(繁體)</span></a></li>
+	<li id="menu-item-2543-zh" class="lang-item lang-item-285 lang-item-zh lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-zh"><a href="/zh/home-zh/" hreflang="zh-CN" lang="zh-CN"><span>中文(简體)</span></a></li>
+	<li id="menu-item-2543-hk" class="lang-item lang-item-299 lang-item-hk menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-hk"><a href="/hk/home-hk/" hreflang="zh-HK" lang="zh-HK"><span>中文(繁體)</span></a></li>
 </ul>
 </li>
 </ul>						</nav>
@@ -130,168 +130,171 @@ img.emoji {
 				</div>
 
 			</header>
-				<div class="top_panel_style_dark page_top_wrap page_top_breadcrumbs">
-											<div class="breadcrumbs">
-							<div class="content_wrap">
-								<a class="breadcrumbs_item home" href="/">Home</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">WBV Technology</span>							</div>
-						</div>
-										<div class="content_wrap">
-											</div>
-				</div>
-			
+
 			<div class="page_content_wrap">
 
 				
 <div class="content_wrap">
 <div class="content">
-<article class="itemscope post_item post_item_single post_featured_default post_format_standard post-2081 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article">
+<article class="itemscope post_item post_item_single post_featured_default post_format_standard post-2018 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article">
 <section class="post_content" itemprop="articleBody"><div class="sc_reviews alignright"><!-- #TRX_REVIEWS_PLACEHOLDER# --></div>
 <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
-<div class="sc_section"><div class="sc_content content_wrap">
-<div class="vc_empty_space" style="height: 3.125em"><span class="vc_empty_space_inner"></span></div>
-<h2 class="sc_title sc_title_regular">WBV TECHNOLOGY</h2>
+	<div class="wpb_single_image wpb_content_element vc_align_left">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2500" height="3502" src="/auvus-page/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="/auvus-page/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2.png 2500w, /auvus-page/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-214x300.png 214w, /auvus-page/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-768x1076.png 768w, /auvus-page/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-731x1024.png 731w, /auvus-page/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-750x1051.png 750w, /auvus-page/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-400x560.png 400w, /auvus-page/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-250x350.png 250w, /auvus-page/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-1150x1611.png 1150w" sizes="(max-width: 2500px) 100vw, 2500px"></div>
+		</figure>
+	</div>
+</div></div></div></div>
+<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="sc_section" style="background-color:/#f2f2f2;"><div class="sc_section_overlay"><div class="sc_section_content">
 <div class="vc_empty_space" style="height: 1.25em"><span class="vc_empty_space_inner"></span></div>
 
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<h5 style="color: red;">History</h5>
+			<div id="metaslider-id-2395" style="max-width: 800px; margin: 0 auto;" class="ml-slider-3-20-3 metaslider metaslider-flex metaslider-2395 ml-slider">
+    <div id="metaslider_container_2395">
+        <div id="metaslider_2395">
+            <ul aria-live="polite" class="slides">
+                <li style="display: block; width: 100%;" class="slide-2507 ms-image"><img src="/auvus-page/wp-content/uploads/2017/07/product-slide-1.1-668x233.png" height="280" width="800" alt="" class="slider-2395 slide-2507"></li>
+                <li style="display: none; width: 100%;" class="slide-2508 ms-image"><img src="/auvus-page/wp-content/uploads/2017/07/product-slide-1.1-668x233.png" height="280" width="800" alt="" class="slider-2395 slide-2508"></li>
+                <li style="display: none; width: 100%;" class="slide-2509 ms-image"><img src="/auvus-page/wp-content/uploads/2017/07/product-slide-1.1-668x233.png" height="280" width="800" alt="" class="slider-2395 slide-2509"></li>
+            </ul>
+        </div>
+        
+    </div>
+</div>
 
 		</div>
 	</div>
-<div class="vc_empty_space" style="height: 2.15em"><span class="vc_empty_space_inner"></span></div>
-
+<div class="vc_empty_space" style="height: 1.25em"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div></div></div></div>
+<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+<div class="vc_empty_space" style="height: 1.125em"><span class="vc_empty_space_inner"></span></div>
+<div class="sc_section cascade bg_tint_dark"><div class="sc_section" style="margin-top:20px !important;margin-right:100px !important;margin-bottom:20px !important;margin-left:100px !important;">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<ul>
-<li>First vibration machine invented by J.H. Kellogg at the end of the nineteenth century</li>
-<li>1960’s &#8211; Germany discovered the benefits of whole body vibration training</li>
-<li>1970’s &#8211; Russia applied the whole body vibration training techniques for astronauts and Olympic athletes</li>
-<li>1989 &#8211; Whole body vibration training techniques spread from East Germany following the fall of the Berlin wall</li>
-<li>1999 &#8211; First whole body vibration machine commercially available</li>
-<li>2008 &#8211; Whole body vibration exercise machines are sold in over 100 countries around the world and is commonly used by physical therapists, professional athletes (i.e. soccer, basketball, baseball etc) and celebrities</li>
-</ul>
-
-		</div>
-	</div>
-<div class="vc_empty_space" style="height: 2.15em"><span class="vc_empty_space_inner"></span></div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<h5 style="color: red;">Science</h5>
-
-		</div>
-	</div>
-<div class="vc_empty_space" style="height: 2.15em"><span class="vc_empty_space_inner"></span></div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<ul>
-<li>When the body detects vibration in the form of <strong>sinusoidal vibration</strong> (vibration in the shape of a sine wave) at specific frequencies, the musculoskeletal system reacts by resonat Bones are stimulated and trigger a <strong>Tonic Vibration Reflex (TVR)</strong> that activates the skin, tendons, muscle spindles and specifically nerve fibres that are connected to the spinal cord that makes nerves to contract to cause the body to perform “passive” exercise</li>
-</ul>
-<p>&nbsp;</p>
-<ul>
-<li>In addition to generating sinusoidal vibration, Auvus’ whole body vibration machine is capable of generating<strong> tri-planar vibration</strong> in the X-, Y- and Z- axes or dimensions (known as 3-D vibrations or three-dimensional vibrations). These vibrations coincide with the natural movements of the body’s activities in daily life such as walking, running and jumping. When tri-planar sinusoidal vibrations are transmitted at specific frequencies and intensities (known as therapeutic vibrations), they maximise the body’s ability to absorb the vibrations to achieve maximum health benefits.</li>
-</ul>
-
-		</div>
-	</div>
-<div class="vc_empty_space" style="height: 2.15em"><span class="vc_empty_space_inner"></span></div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<h5 style="color: red;">Types of Vibration Machines – Vertical and Oscillating</h5>
-
-		</div>
-	</div>
-<div class="vc_empty_space" style="height: 2.15em"><span class="vc_empty_space_inner"></span></div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<ul>
-<li>Vertical vibration machine platforms vibrate up and down.&nbsp; Vertical vibration machines require very complex components and expensive to produce.&nbsp; Leading therapists, athletes and celebrities use these types of machines to have a more intense and powerful workout to achieve maximum performance and quicker health benefits.</li>
-</ul>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<ul>
-<li>Oscillating machines where the platform vibrates on a pivotal point at its centre. Either end of the left and right sides of the vibration platform moves up and down alternately in an oscillating manner. The up and down motions apply to one foot as well as to one side of the pelvis at a time. This is different from the vertical vibration machine in which the same vibration applies uniformly to the body as a whole.</li>
-</ul>
-
-		</div>
-	</div>
-<div class="vc_empty_space" style="height: 2.5em"><span class="vc_empty_space_inner"></span></div>
-<figure class="sc_image  sc_image_shape_square"><img src="/auvus-page/wp-content/uploads/2017/07/2.jpg" alt=""></figure><div class="vc_empty_space" style="height: 2.5em"><span class="vc_empty_space_inner"></span></div>
-<div class="vc_empty_space" style="height: 2.5em"><span class="vc_empty_space_inner"></span></div>
-<div class="vc_empty_space" style="height: 2.5em"><span class="vc_empty_space_inner"></span></div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<h5 style="color: red;">Benefits of regular use of Vertical Vibration Machines:</h5>
-
-		</div>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<ul>
-<li>Improved muscle toning and strength</li>
-<li>Improved flexibility, reflexes and mobility</li>
-<li>Improved blood circulation</li>
-</ul>
-
-		</div>
-	</div>
-<figure class="sc_image  sc_image_shape_square"><img src="/auvus-page/wp-content/uploads/2017/07/3.jpg" alt=""></figure>
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<ul>
-<li>Improved coordination and posture</li>
-<li>Reduce stress</li>
-<li>Burn fat, lose weight and increase resting metabolism</li>
-<li>Promote healing of joints and muscles</li>
-<li>Maintain bone density and weight</li>
-<li>Reduce cellulite</li>
-<li>Promote lymphatic drainage and detoxification</li>
-<li>Pre and Post training / exercise recovery</li>
-</ul>
-
-		</div>
-	</div>
-<div class="vc_empty_space" style="height: 2.15em"><span class="vc_empty_space_inner"></span></div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<h5 style="color: red;">Other Benefits:</h5>
-
-		</div>
-	</div>
-<div class="vc_empty_space" style="height: 2.15em"><span class="vc_empty_space_inner"></span></div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<ul>
-<li>The vibration frequency of the vibration machine can be adjusted to maximise comfort and regular use of the machine can,
-<ul>
-<li>Pain relief</li>
-<li>Improve circulation / energy flow and general health</li>
-<li>Enhance the healing of joints, bones and muscle ailments</li>
-<li>Support healing of non-viral internal ailments</li>
-<li>Assist in improving mobility and recovery following strokes and physical injuries</li>
-</ul>
-</li>
-</ul>
+			<h4>The vibration machine emits soothing and gentle waves of therapeutic vibrations from the platform to exercise and stimulate the whole body. The ergonomically designed handlebar can be adjusted to each user ’s personal preference.</h4>
 
 		</div>
 	</div>
 </div></div>
+<div class="vc_empty_space" style="height: 1.125em"><span class="vc_empty_space_inner"></span></div>
+<div class="sc_section overlay_padding_off"><div class="sc_section_overlay" style="background-color:rgba(0,0,0,0.9);" data-overlay="0.9" data-bg_color="#000000"><div class="sc_section_content">
+<div class="sc_content content_wrap"><div class="sc_section bg_tint_dark">
+<div class="vc_empty_space" style="height: 4.5em"><span class="vc_empty_space_inner"></span></div>
+<h2 class="sc_title sc_title_regular">
+</h2>
+<p style="text-align: center;">CONTACT US</p>
+<p></p>
+</div></div>
+<div class="sc_content content_wrap"><div class="sc_section bg_tint_dark">
 <div class="vc_empty_space" style="height: 3.125em"><span class="vc_empty_space_inner"></span></div>
+<div class="columns_wrap sc_columns columns_nofluid sc_columns_count_2">
+<div class="column-1_2 sc_column_item sc_column_item_1 odd first">
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<h6>Auvus Technology Corporation Limited</h6>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 1em"><span class="vc_empty_space_inner"></span></div>
 </div></div></div></div>
-<div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"></div></div></div></div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">Showroom:</p>
+
+		</div>
+	</div>
+</div></div></div>
+<div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">Unit A, 9/F., 403 Castle Peak Road,<br>
+Kwai Chung, NT., Hong Kong</p>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 1em"><span class="vc_empty_space_inner"></span></div>
+</div></div></div>
+</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">Email :</p>
+
+		</div>
+	</div>
+</div></div></div>
+<div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><a href="mailto:info@auvus.com">info@auvus.com</a></p>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 1em"><span class="vc_empty_space_inner"></span></div>
+</div></div></div>
+</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid">
+<div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">Hotline :</p>
+
+		</div>
+	</div>
+</div></div></div>
+<div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: left;">(852)9838 9842</p>
+
+		</div>
+	</div>
+</div></div></div>
+</div>
+</div>
+<div class="column-1_2 sc_column_item sc_column_item_2 even">
+<div role="form" class="wpcf7" id="wpcf7-f3562-p2018-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response">
+<p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul>
+</div>
+<form action="/#wpcf7-f3562-p2018-o1" method="post" class="wpcf7-form init cf7-style transparent-two-columns" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="3562">
+<input type="hidden" name="_wpcf7_version" value="5.4.1">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3562-p2018-o1">
+<input type="hidden" name="_wpcf7_container_post" value="2018">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<p><label><br>
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name"></span> </label></p>
+<p><label><br>
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email"></span> </label></p>
+<p><label><br>
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Subject"></span> </label></p>
+<p><label><br>
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span> </label></p>
+<div style="margin:10px; text-align:center">
+<input type="submit" value="SEND MESSAGE" class="wpcf7-form-control wpcf7-submit">
+</div>
+<div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+<div class="vc_empty_space" style="height: 0px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_empty_space" style="height: 1.125em"><span class="vc_empty_space_inner"></span></div>
+</div>
+</div>
+</div></div>
+</div></div></div>
+</div></div></div></div>
 				</section> <!-- </section> class="post_content" itemprop="articleBody"> -->
-			</article> <!-- </article> class="itemscope post_item post_item_single post_featured_default post_format_standard post-2081 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article"> -->	<section class="related_wrap related_wrap_empty"></section>
+			</article> <!-- </article> class="itemscope post_item post_item_single post_featured_default post_format_standard post-2018 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article"> -->	<section class="related_wrap related_wrap_empty"></section>
 	
 		</div> <!-- </div> class="content"> -->
 	</div> <!-- </div> class="content_wrap"> -->			
@@ -310,7 +313,9 @@ img.emoji {
 </div>
 
 
-<script type="text/javascript">jQuery(document).ready(function() {THEMEREX_GLOBALS["strings"] = {bookmark_add: 		"Add the bookmark",bookmark_added:		"Current page has been successfully added to the bookmarks. You can see it in the right panel on the tab \'Bookmarks\'",bookmark_del: 		"Delete this bookmark",bookmark_title:		"Enter bookmark title",bookmark_exists:		"Current page already exists in the bookmarks list",search_error:		"Error occurs in AJAX search! Please, type your query and press search icon for the traditional search way.",email_confirm:		"On the e-mail address <b>%s<\/b> we sent a confirmation email.<br/>Please, open it and click on the link.",reviews_vote:		"Thanks for your vote! New average rating is:",reviews_error:		"Error saving your vote! Please, try again later.",error_like:			"Error saving your like! Please, try again later.",error_global:		"Global error text",name_empty:			"The name can\'t be empty",name_long:			"Too long name",email_empty:			"Too short (or empty) email address",email_long:			"Too long email address",email_not_valid:		"Invalid email address",subject_empty:		"The subject can\'t be empty",subject_long:		"Too long subject",text_empty:			"The message text can\'t be empty",text_long:			"Too long message text",send_complete:		"Send message complete!",send_error:			"Transmit failed!",login_empty:			"The Login field can\'t be empty",login_long:			"Too long login field",login_success:		"Login success! The page will be reloaded in 3 sec.",login_failed:		"Login failed!",password_empty:		"The password can\'t be empty and shorter then 4 characters",password_long:		"Too long password",password_not_equal:	"The passwords in both fields are not equal",registration_success:"Registration success! Please log in!",registration_failed:	"Registration failed!",geocode_error:		"Geocode was not successful for the following reason:",googlemap_not_avail:	"Google map API not available!",editor_save_success:	"Post content saved!",editor_save_error:	"Error saving post data!",editor_delete_post:	"You really want to delete the current post?",editor_delete_post_header:"Delete post",editor_delete_success:	"Post deleted!",editor_delete_error:		"Error deleting post!",editor_caption_cancel:	"Cancel",editor_caption_close:	"Close"};});</script><script type="text/javascript">jQuery(document).ready(function() {THEMEREX_GLOBALS['ajax_url']			= 'httpswww.auvus.com/auvus-page/wp-admin/admin-ajax.php';THEMEREX_GLOBALS['ajax_nonce']		= 'dcc6b555d0';THEMEREX_GLOBALS['ajax_nonce_editor'] = '295154e284';THEMEREX_GLOBALS['site_url']			= 'httpswww.auvus.com';THEMEREX_GLOBALS['vc_edit_mode']		= false;THEMEREX_GLOBALS['theme_font']		= '';THEMEREX_GLOBALS['theme_skin']		= 'default';THEMEREX_GLOBALS['theme_skin_bg']	= '';THEMEREX_GLOBALS['slider_height']	= 100;THEMEREX_GLOBALS['system_message']	= {message: '',status: '',header: ''};THEMEREX_GLOBALS['user_logged_in']	= false;THEMEREX_GLOBALS['toc_menu']		= 'fixed';THEMEREX_GLOBALS['toc_menu_home']	= false;THEMEREX_GLOBALS['toc_menu_top']	= false;THEMEREX_GLOBALS['menu_fixed']		= true;THEMEREX_GLOBALS['menu_relayout']	= 0;THEMEREX_GLOBALS['menu_responsive']	= 800;THEMEREX_GLOBALS['menu_slider']     = true;THEMEREX_GLOBALS['demo_time']		= 0;THEMEREX_GLOBALS['media_elements_enabled'] = true;THEMEREX_GLOBALS['ajax_search_enabled'] 	= true;THEMEREX_GLOBALS['ajax_search_min_length']	= 3;THEMEREX_GLOBALS['ajax_search_delay']		= 200;THEMEREX_GLOBALS['css_animation']      = true;THEMEREX_GLOBALS['menu_animation_in']  = 'none';THEMEREX_GLOBALS['menu_animation_out'] = 'none';THEMEREX_GLOBALS['popup_engine']	= 'pretty';THEMEREX_GLOBALS['popup_gallery']	= true;THEMEREX_GLOBALS['email_mask']		= '^([a-zA-Z0-9_\-]+\.)*[a-zA-Z0-9_\-]+@[a-z0-9_\-]+(\.[a-z0-9_\-]+)*\.[a-z]{2,6}$';THEMEREX_GLOBALS['contacts_maxlength']	= 1000;THEMEREX_GLOBALS['comments_maxlength']	= 1000;THEMEREX_GLOBALS['remember_visitors_settings']	= false;THEMEREX_GLOBALS['admin_mode']			= false;THEMEREX_GLOBALS['isotope_resize_delta']	= 0.3;THEMEREX_GLOBALS['error_message_box']	= null;THEMEREX_GLOBALS['viewmore_busy']		= false;THEMEREX_GLOBALS['video_resize_inited']	= false;THEMEREX_GLOBALS['top_panel_height']		= 0;});</script><script type="text/javascript">jQuery(document).ready(function() {if (THEMEREX_GLOBALS['theme_font']=='') THEMEREX_GLOBALS['theme_font'] = 'Ubuntu';THEMEREX_GLOBALS['link_color'] = '#f15a23';THEMEREX_GLOBALS['menu_color'] = '#26c9c3';THEMEREX_GLOBALS['user_color'] = '#fcc930';});</script><script type="text/javascript" src="/auvus-page/wp-content/plugins/contact-form-7-style/js/frontend-min.js?ver=3.1.6" id="cf7-style-frontend-script-js"></script>
+<script type="text/javascript">jQuery(document).ready(function() {THEMEREX_GLOBALS["strings"] = {bookmark_add: 		"Add the bookmark",bookmark_added:		"Current page has been successfully added to the bookmarks. You can see it in the right panel on the tab \'Bookmarks\'",bookmark_del: 		"Delete this bookmark",bookmark_title:		"Enter bookmark title",bookmark_exists:		"Current page already exists in the bookmarks list",search_error:		"Error occurs in AJAX search! Please, type your query and press search icon for the traditional search way.",email_confirm:		"On the e-mail address <b>%s<\/b> we sent a confirmation email.<br/>Please, open it and click on the link.",reviews_vote:		"Thanks for your vote! New average rating is:",reviews_error:		"Error saving your vote! Please, try again later.",error_like:			"Error saving your like! Please, try again later.",error_global:		"Global error text",name_empty:			"The name can\'t be empty",name_long:			"Too long name",email_empty:			"Too short (or empty) email address",email_long:			"Too long email address",email_not_valid:		"Invalid email address",subject_empty:		"The subject can\'t be empty",subject_long:		"Too long subject",text_empty:			"The message text can\'t be empty",text_long:			"Too long message text",send_complete:		"Send message complete!",send_error:			"Transmit failed!",login_empty:			"The Login field can\'t be empty",login_long:			"Too long login field",login_success:		"Login success! The page will be reloaded in 3 sec.",login_failed:		"Login failed!",password_empty:		"The password can\'t be empty and shorter then 4 characters",password_long:		"Too long password",password_not_equal:	"The passwords in both fields are not equal",registration_success:"Registration success! Please log in!",registration_failed:	"Registration failed!",geocode_error:		"Geocode was not successful for the following reason:",googlemap_not_avail:	"Google map API not available!",editor_save_success:	"Post content saved!",editor_save_error:	"Error saving post data!",editor_delete_post:	"You really want to delete the current post?",editor_delete_post_header:"Delete post",editor_delete_success:	"Post deleted!",editor_delete_error:		"Error deleting post!",editor_caption_cancel:	"Cancel",editor_caption_close:	"Close"};});</script><script type="text/javascript">jQuery(document).ready(function() {THEMEREX_GLOBALS['ajax_url']			= 'httpswww.auvus.com/auvus-page/wp-admin/admin-ajax.php';THEMEREX_GLOBALS['ajax_nonce']		= 'dcc6b555d0';THEMEREX_GLOBALS['ajax_nonce_editor'] = '295154e284';THEMEREX_GLOBALS['site_url']			= 'httpswww.auvus.com';THEMEREX_GLOBALS['vc_edit_mode']		= false;THEMEREX_GLOBALS['theme_font']		= '';THEMEREX_GLOBALS['theme_skin']		= 'default';THEMEREX_GLOBALS['theme_skin_bg']	= '';THEMEREX_GLOBALS['slider_height']	= 630;THEMEREX_GLOBALS['system_message']	= {message: '',status: '',header: ''};THEMEREX_GLOBALS['user_logged_in']	= false;THEMEREX_GLOBALS['toc_menu']		= 'fixed';THEMEREX_GLOBALS['toc_menu_home']	= false;THEMEREX_GLOBALS['toc_menu_top']	= false;THEMEREX_GLOBALS['menu_fixed']		= true;THEMEREX_GLOBALS['menu_relayout']	= 0;THEMEREX_GLOBALS['menu_responsive']	= 800;THEMEREX_GLOBALS['menu_slider']     = true;THEMEREX_GLOBALS['demo_time']		= 0;THEMEREX_GLOBALS['media_elements_enabled'] = true;THEMEREX_GLOBALS['ajax_search_enabled'] 	= true;THEMEREX_GLOBALS['ajax_search_min_length']	= 3;THEMEREX_GLOBALS['ajax_search_delay']		= 200;THEMEREX_GLOBALS['css_animation']      = true;THEMEREX_GLOBALS['menu_animation_in']  = 'none';THEMEREX_GLOBALS['menu_animation_out'] = 'none';THEMEREX_GLOBALS['popup_engine']	= 'pretty';THEMEREX_GLOBALS['popup_gallery']	= true;THEMEREX_GLOBALS['email_mask']		= '^([a-zA-Z0-9_\-]+\.)*[a-zA-Z0-9_\-]+@[a-z0-9_\-]+(\.[a-z0-9_\-]+)*\.[a-z]{2,6}$';THEMEREX_GLOBALS['contacts_maxlength']	= 1000;THEMEREX_GLOBALS['comments_maxlength']	= 1000;THEMEREX_GLOBALS['remember_visitors_settings']	= false;THEMEREX_GLOBALS['admin_mode']			= false;THEMEREX_GLOBALS['isotope_resize_delta']	= 0.3;THEMEREX_GLOBALS['error_message_box']	= null;THEMEREX_GLOBALS['viewmore_busy']		= false;THEMEREX_GLOBALS['video_resize_inited']	= false;THEMEREX_GLOBALS['top_panel_height']		= 0;});</script><script type="text/javascript">jQuery(document).ready(function() {if (THEMEREX_GLOBALS['theme_font']=='') THEMEREX_GLOBALS['theme_font'] = 'Ubuntu';THEMEREX_GLOBALS['link_color'] = '#f15a23';THEMEREX_GLOBALS['menu_color'] = '#26c9c3';THEMEREX_GLOBALS['user_color'] = '#fcc930';});</script><link rel="stylesheet" id="metaslider-flex-slider-css" href="/auvus-page/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css?ver=3.20.3" type="text/css" media="all" property="stylesheet">
+<link rel="stylesheet" id="metaslider-public-css" href="/auvus-page/wp-content/plugins/ml-slider/assets/metaslider/public.css?ver=3.20.3" type="text/css" media="all" property="stylesheet">
+<script type="text/javascript" src="/auvus-page/wp-content/plugins/contact-form-7-style/js/frontend-min.js?ver=3.1.6" id="cf7-style-frontend-script-js"></script>
 <script type="text/javascript" src="/auvus-page/wp-includes/js/dist/vendor/auvus-page/wp-polyfill.min.js?ver=7.4.4" id="wp-polyfill-js"></script>
 <script type="text/javascript" id="wp-polyfill-js-after">
 ( 'fetch' in window ) || document.write( '<script src="https://www.auvus.com/auvus-page/wp-includes/js/dist/vendor/auvus-page/wp-polyfill-fetch.min.js?ver=3.0.0"><\/scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.auvus.com/auvus-page/wp-includes/js/dist/vendor/auvus-page/wp-polyfill-node-contains.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.auvus.com/auvus-page/wp-includes/js/dist/vendor/auvus-page/wp-polyfill-dom-rect.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.auvus.com/auvus-page/wp-includes/js/dist/vendor/auvus-page/wp-polyfill-url.min.js?ver=3.6.4"><\/scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.auvus.com/auvus-page/wp-includes/js/dist/vendor/auvus-page/wp-polyfill-formdata.min.js?ver=3.0.12"><\/scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.auvus.com/auvus-page/wp-includes/js/dist/vendor/auvus-page/wp-polyfill-element-closest.min.js?ver=2.0.2"><\/scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://www.auvus.com/auvus-page/wp-includes/js/dist/vendor/auvus-page/wp-polyfill-object-fit.min.js?ver=2.3.4"><\/scr' + 'ipt>' );
@@ -338,6 +343,51 @@ var _wpmejsSettings = {"pluginPath":"\/auvus-page/wp-includes\/js\/mediaelement\
 <script type="text/javascript" src="/auvus-page/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.5" id="page-links-to-js"></script>
 <script type="text/javascript" src="/auvus-page/wp-includes/js/auvus-page/wp-embed.min.js?ver=5.7.1" id="wp-embed-js"></script>
 <script type="text/javascript" src="/auvus-page/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=4.11.2.1" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="/auvus-page/wp-content/plugins/ml-slider/assets/sliders/flexslider/jquery.flexslider.min.js?ver=3.20.3" id="metaslider-flex-slider-js"></script>
+<script type="text/javascript" id="metaslider-flex-slider-js-after">
+var metaslider_2395 = function($) {$('#metaslider_2395').addClass('flexslider');
+            $('#metaslider_2395').flexslider({ 
+                slideshowSpeed:3000,
+                animation:"fade",
+                controlNav:true,
+                directionNav:true,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                animationSpeed:600,
+                prevText:"&lt;",
+                nextText:"&gt;",
+                fadeFirstSlide:false,
+                slideshow:true
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_2395');
+        };
+        var timer_metaslider_2395 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_2395, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_2395, 1) : metaslider_2395(window.jQuery);
+        };
+        timer_metaslider_2395();
+var metaslider_2395 = function($) {$('#metaslider_2395').addClass('flexslider');
+            $('#metaslider_2395').flexslider({ 
+                slideshowSpeed:3000,
+                animation:"fade",
+                controlNav:true,
+                directionNav:true,
+                pauseOnHover:true,
+                direction:"horizontal",
+                reverse:false,
+                animationSpeed:600,
+                prevText:"&lt;",
+                nextText:"&gt;",
+                fadeFirstSlide:false,
+                slideshow:true
+            });
+            $(document).trigger('metaslider/initialized', '#metaslider_2395');
+        };
+        var timer_metaslider_2395 = function() {
+            var slider = !window.jQuery ? window.setTimeout(timer_metaslider_2395, 100) : !jQuery.isReady ? window.setTimeout(timer_metaslider_2395, 1) : metaslider_2395(window.jQuery);
+        };
+        timer_metaslider_2395();
+</script>
 <script type="text/javascript" src="/auvus-page/wp-content/themes/gym/fw/shortcodes/shortcodes.js" id="themerex-shortcodes-script-js"></script>
 
 </body>

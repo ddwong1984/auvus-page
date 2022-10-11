@@ -15,7 +15,7 @@
 /* =Theme customization starts here
 -------------------------------------------------------------- */
 
-@import url("/wp-content/themes/gym/style.css"); 
+@import url("/auvus-page/wp-content/themes/gym/style.css"); 
 
 .menu_main_wrap .menu_main_nav > li > a > span {font-size: 75%;}
 

@@ -423,7 +423,7 @@ label.required:after {
 	top: 0;
 	width:3em;
 	height:3em;
-	background-image:url(/wp-content/themes/gym/images/sticky.png);
+	background-image:url(/auvus-page/wp-content/themes/gym/images/sticky.png);
 	background-repeat:no-repeat;
 	background-position:right top;
 	background-size:3em 3em;
@@ -944,7 +944,7 @@ label.required:after {
 	right:0;
 	background-color:rgba(0,0,0,0.3);
 	z-index:3;
-	background-image:url(/wp-content/themes/gym/images/bg/texture_7.png);
+	background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_7.png);
 }
 
 
@@ -4474,49 +4474,49 @@ iframe[name="google_conversion_frame"] { height:1px; min-height:0px; display:non
 -------------------------------------------------------------- */
 
 /* Predefined classes for the background texture and/or image */
-.texture_bg_1  { background-image:url(/wp-content/themes/gym/images/bg/texture_1.png); }
-.texture_bg_2  { background-image:url(/wp-content/themes/gym/images/bg/texture_2.png); }
-.texture_bg_3  { background-image:url(/wp-content/themes/gym/images/bg/texture_3.png); }
-.texture_bg_4  { background-image:url(/wp-content/themes/gym/images/bg/texture_4.png); }
-.texture_bg_5  { background-image:url(/wp-content/themes/gym/images/bg/texture_5.png); }
-.texture_bg_6  { background-image:url(/wp-content/themes/gym/images/bg/texture_6.png); }
-.texture_bg_7  { background-image:url(/wp-content/themes/gym/images/bg/texture_7.png); }
-.texture_bg_8  { background-image:url(/wp-content/themes/gym/images/bg/texture_8.png); }
-.texture_bg_9  { background-image:url(/wp-content/themes/gym/images/bg/texture_9.png); }
-.texture_bg_10 { background-image:url(/wp-content/themes/gym/images/bg/texture_10.png); }
-.texture_bg_11 { background-image:url(/wp-content/themes/gym/images/bg/texture_11.png); }
-.texture_bg_12 { background-image:url(/wp-content/themes/gym/images/bg/texture_12.png); }
+.texture_bg_1  { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_1.png); }
+.texture_bg_2  { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_2.png); }
+.texture_bg_3  { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_3.png); }
+.texture_bg_4  { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_4.png); }
+.texture_bg_5  { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_5.png); }
+.texture_bg_6  { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_6.png); }
+.texture_bg_7  { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_7.png); }
+.texture_bg_8  { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_8.png); }
+.texture_bg_9  { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_9.png); }
+.texture_bg_10 { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_10.png); }
+.texture_bg_11 { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_11.png); }
+.texture_bg_12 { background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_12.png); }
 
-.overlay_bg_1:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_1.png); }
-.overlay_bg_2:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_2.png); }
-.overlay_bg_3:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_3.png); }
-.overlay_bg_4:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_4.png); }
-.overlay_bg_5:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_5.png); }
-.overlay_bg_6:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_6.png); }
-.overlay_bg_7:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_7.png); }
-.overlay_bg_8:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_8.png); }
-.overlay_bg_9:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_9.png); }
-.overlay_bg_10:after { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_10.png); }
-.overlay_bg_11:after { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_11.png); }
-.overlay_bg_12:after { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/wp-content/themes/gym/images/bg/texture_12.png); }
+.overlay_bg_1:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_1.png); }
+.overlay_bg_2:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_2.png); }
+.overlay_bg_3:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_3.png); }
+.overlay_bg_4:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_4.png); }
+.overlay_bg_5:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_5.png); }
+.overlay_bg_6:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_6.png); }
+.overlay_bg_7:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_7.png); }
+.overlay_bg_8:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_8.png); }
+.overlay_bg_9:after  { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_9.png); }
+.overlay_bg_10:after { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_10.png); }
+.overlay_bg_11:after { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_11.png); }
+.overlay_bg_12:after { content:' '; position:absolute; left:0; top:0; right:0; bottom:0; background-image:url(/auvus-page/wp-content/themes/gym/images/bg/texture_12.png); }
 
-.bg_pattern_1  { background: url(/wp-content/themes/gym/images/bg/pattern_1.jpg) 50% 50% repeat fixed; }
-.bg_pattern_2  { background: url(/wp-content/themes/gym/images/bg/pattern_2.jpg) 50% 50% repeat fixed; }
-.bg_pattern_3  { background: url(/wp-content/themes/gym/images/bg/pattern_3.jpg) 50% 50% repeat fixed; }
-.bg_pattern_4  { background: url(/wp-content/themes/gym/images/bg/pattern_4.jpg) 50% 50% repeat fixed; }
-.bg_pattern_5  { background: url(/wp-content/themes/gym/images/bg/pattern_5.jpg) 50% 50% repeat fixed; }
-.bg_pattern_6  { background: url(/wp-content/themes/gym/images/bg/pattern_6.jpg) 50% 50% repeat fixed; }
-.bg_pattern_7  { background: url(/wp-content/themes/gym/images/bg/pattern_7.jpg) 50% 50% repeat fixed; }
-.bg_pattern_8  { background: url(/wp-content/themes/gym/images/bg/pattern_8.jpg) 50% 50% repeat fixed; }
-.bg_pattern_9  { background: url(/wp-content/themes/gym/images/bg/pattern_9.jpg) 50% 50% repeat fixed; }
-.bg_pattern_10 { background: url(/wp-content/themes/gym/images/bg/pattern_10.jpg) 50% 50% repeat fixed; }
+.bg_pattern_1  { background: url(/auvus-page/wp-content/themes/gym/images/bg/pattern_1.jpg) 50% 50% repeat fixed; }
+.bg_pattern_2  { background: url(/auvus-page/wp-content/themes/gym/images/bg/pattern_2.jpg) 50% 50% repeat fixed; }
+.bg_pattern_3  { background: url(/auvus-page/wp-content/themes/gym/images/bg/pattern_3.jpg) 50% 50% repeat fixed; }
+.bg_pattern_4  { background: url(/auvus-page/wp-content/themes/gym/images/bg/pattern_4.jpg) 50% 50% repeat fixed; }
+.bg_pattern_5  { background: url(/auvus-page/wp-content/themes/gym/images/bg/pattern_5.jpg) 50% 50% repeat fixed; }
+.bg_pattern_6  { background: url(/auvus-page/wp-content/themes/gym/images/bg/pattern_6.jpg) 50% 50% repeat fixed; }
+.bg_pattern_7  { background: url(/auvus-page/wp-content/themes/gym/images/bg/pattern_7.jpg) 50% 50% repeat fixed; }
+.bg_pattern_8  { background: url(/auvus-page/wp-content/themes/gym/images/bg/pattern_8.jpg) 50% 50% repeat fixed; }
+.bg_pattern_9  { background: url(/auvus-page/wp-content/themes/gym/images/bg/pattern_9.jpg) 50% 50% repeat fixed; }
+.bg_pattern_10 { background: url(/auvus-page/wp-content/themes/gym/images/bg/pattern_10.jpg) 50% 50% repeat fixed; }
 
-.bg_image_1 { background: url(/wp-content/themes/gym/images/bg/image_1.jpg) 50% 0% repeat-y fixed; }
-.bg_image_2 { background: url(/wp-content/themes/gym/images/bg/image_2.jpg) 50% 0% repeat-y fixed; }
-.bg_image_3 { background: url(/wp-content/themes/gym/images/bg/image_3.jpg) 50% 0% repeat-y fixed; }
-.bg_image_4 { background: url(/wp-content/themes/gym/images/bg/image_4.jpg) 50% 0% repeat-y fixed; }
-.bg_image_5 { background: url(/wp-content/themes/gym/images/bg/image_5.jpg) 50% 0% repeat-y fixed; }
-.bg_image_6 { background: url(/wp-content/themes/gym/images/bg/image_6.jpg) 50% 0% repeat-y fixed; }
+.bg_image_1 { background: url(/auvus-page/wp-content/themes/gym/images/bg/image_1.jpg) 50% 0% repeat-y fixed; }
+.bg_image_2 { background: url(/auvus-page/wp-content/themes/gym/images/bg/image_2.jpg) 50% 0% repeat-y fixed; }
+.bg_image_3 { background: url(/auvus-page/wp-content/themes/gym/images/bg/image_3.jpg) 50% 0% repeat-y fixed; }
+.bg_image_4 { background: url(/auvus-page/wp-content/themes/gym/images/bg/image_4.jpg) 50% 0% repeat-y fixed; }
+.bg_image_5 { background: url(/auvus-page/wp-content/themes/gym/images/bg/image_5.jpg) 50% 0% repeat-y fixed; }
+.bg_image_6 { background: url(/auvus-page/wp-content/themes/gym/images/bg/image_6.jpg) 50% 0% repeat-y fixed; }
 .bg_image_1, .bg_image_2, .bg_image_3, .bg_image_4, .bg_image_5, .bg_image_6 {
 	-webkit-background-size: 100% auto;
 	   -moz-background-size: 100% auto;

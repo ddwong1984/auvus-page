@@ -1710,7 +1710,7 @@ input[type="checkbox"]:checked + label:before {
 }
 .error404.top_panel_style_light .page_content_wrap {
 	background-color:#26c9c3;
-	background-image: url(/wp-content/themes/gym/skins/default/images/bg_over.png);
+	background-image: url(/auvus-page/wp-content/themes/gym/skins/default/images/bg_over.png);
 	background-repeat:repeat-x;
 	background-position:left top;
 }
@@ -2431,10 +2431,10 @@ a.tribe-events-read-more:hover,
 /* 14. Predefined classes for users
 -------------------------------------------------------------- */
 .texture_bg_green,
-.texture_bg_dark  { background-image:url(/wp-content/themes/gym/skins/default/images/bg_dark.jpg); }
+.texture_bg_dark  { background-image:url(/auvus-page/wp-content/themes/gym/skins/default/images/bg_dark.jpg); }
 .texture_bg_blue,
-.texture_bg_light  { background-image:url(/wp-content/themes/gym/skins/default/images/bg_light.jpg); }
-.texture_bg_yellow  { background-image:url(/wp-content/themes/gym/skins/default/images/bg_yellow.jpg); }
+.texture_bg_light  { background-image:url(/auvus-page/wp-content/themes/gym/skins/default/images/bg_light.jpg); }
+.texture_bg_yellow  { background-image:url(/auvus-page/wp-content/themes/gym/skins/default/images/bg_yellow.jpg); }
 
 .texture_bg_slider:after,
 .texture_bg_slider_full:after {
@@ -2445,10 +2445,10 @@ a.tribe-events-read-more:hover,
 	bottom:0;
 	top:0;
 	z-index:1;
-	background: url(/wp-content/themes/gym/skins/default/images/texture_top.png) center top repeat-x, url(/wp-content/themes/gym/skins/default/images/texture_slider.png) left top repeat;
+	background: url(/auvus-page/wp-content/themes/gym/skins/default/images/texture_top.png) center top repeat-x, url(/auvus-page/wp-content/themes/gym/skins/default/images/texture_slider.png) left top repeat;
 }
 .texture_bg_slider_full:after {
-	background: url(/wp-content/themes/gym/skins/default/images/texture_center.png) center center no-repeat, url(/wp-content/themes/gym/skins/default/images/texture_top.png) center top repeat-x, url(/wp-content/themes/gym/skins/default/images/texture_slider.png) left top repeat;
+	background: url(/auvus-page/wp-content/themes/gym/skins/default/images/texture_center.png) center center no-repeat, url(/auvus-page/wp-content/themes/gym/skins/default/images/texture_top.png) center top repeat-x, url(/auvus-page/wp-content/themes/gym/skins/default/images/texture_slider.png) left top repeat;
 }
 
 
@@ -2957,7 +2957,7 @@ button:hover,
     bottom: 0;
     right: 0;
     left: 0;
-    background: transparent url(/wp-content/themes/gym/images/bg/texture_14.png) repeat center center;
+    background: transparent url(/auvus-page/wp-content/themes/gym/images/bg/texture_14.png) repeat center center;
 }
 .page-template-courses .post_item_excerpt .post_featured.bg_image .post_thumb .hover_img_overlay {
     position: absolute;

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Post Formats &#8211; Auvus</title>
+	<atom:link href="/category/post-formats/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Web site under construction</description>
+	<lastBuildDate>Fri, 21 Jul 2017 10:00:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Chat Format</title>
+		<link>/chat-format/</link>
+					<comments>/chat-format/#respond</comments>
+		
+		<dc:creator><![CDATA[admin_auvus]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2014 09:46:12 +0000</pubDate>
+				<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[Post Formats Full Width]]></category>
+		<category><![CDATA[Post Formats with Sidebar]]></category>
+		<category><![CDATA[Product]]></category>
+		<guid isPermaLink="false">http://education.themerex.net/?p=46</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="sc_chat"><div class="sc_chat_inner"><div class="sc_chat_avatar"><img class="wp-post-image" width="110" height="110" alt="sport-player-04.jpg" src="http://47.242.71.16/wp-content/uploads/2014/12/sport-player-04.jpg"></div><div class="sc_chat_title"><a href="#">Douglas Adams</a></div><div class="sc_chat_content"><p>Cras cursus eros vel commodo tincidunt. Donec ac urna eget velit bibendum aliquam. Phasellus tempor urna erat, a fringilla elit vulputate.</p></div></div></div><div class="sc_chat"><div class="sc_chat_inner"><div class="sc_chat_avatar"><img class="wp-post-image" width="110" height="110" alt="sport-player-09.jpg" src="http://47.242.71.16/wp-content/uploads/2014/12/sport-player-09.jpg"></div><div class="sc_chat_title"><a href="#">Joanna Doe</a></div><div class="sc_chat_content"><p>Vivamus euismod mauris id sodales tincidunt. Aliquam est nibh, fringilla nec elit ut, molestie dictum tellus.</p></div></div></div><br />
+<span id="more-46"></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/chat-format/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aside Format</title>
+		<link>/aside-format/</link>
+					<comments>/aside-format/#respond</comments>
+		
+		<dc:creator><![CDATA[admin_auvus]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2014 09:48:17 +0000</pubDate>
+				<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[Post Formats Full Width]]></category>
+		<category><![CDATA[Post Formats with Sidebar]]></category>
+		<guid isPermaLink="false">http://education.themerex.net/?p=48</guid>
+
+					<description><![CDATA[Vivamus euismod mauris id sodales tincidunt. Aliquam est nibh, fringilla nec elit ut, molestie dictum tellus. Proin porta egestas nisi a bibendum. Maecenas dictum semper nulla sed bibendum.]]></description>
+										<content:encoded><![CDATA[<p>Vivamus euismod mauris id sodales tincidunt. Aliquam est nibh, fringilla nec elit ut, molestie dictum tellus. Proin porta egestas nisi a bibendum. Maecenas dictum semper nulla sed bibendum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/aside-format/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

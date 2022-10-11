@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Auvus</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Web site under construction</description>
+	<lastBuildDate>Fri, 21 Jul 2017 10:02:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>5 Benefits of Interval Training</title>
+		<link>/introduction-to-computer-science/</link>
+					<comments>/introduction-to-computer-science/#respond</comments>
+		
+		<dc:creator><![CDATA[admin_auvus]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2015 12:00:22 +0000</pubDate>
+				<category><![CDATA[Masonry (3 columns)]]></category>
+		<category><![CDATA[Portfolio (3 columns)]]></category>
+		<category><![CDATA[Product]]></category>
+		<category><![CDATA[masonry]]></category>
+		<guid isPermaLink="false">http://education.themerex.net/?p=144</guid>
+
+					<description><![CDATA[Duis eget dictum eros, in dictum sem. Vivamus sed molestie sapien. Aliquam et facilisis arcu, ut molestie augue. Suspendisse sodales tortor nunc, quis auctor ligula posuere cursus. Morbi sem neque, tristique in porta ullamcorper, lacinia eget lorem. Proin feugiat risus quis magna sagittis, eget semper nisl tristique. Aenean maximus, enim nec dignissim tempus, lectus ante [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Duis eget dictum eros, in dictum sem. Vivamus sed molestie sapien. Aliquam et facilisis arcu, ut molestie augue. Suspendisse sodales tortor nunc, quis auctor ligula posuere cursus. Morbi sem neque, tristique in porta ullamcorper, lacinia eget lorem. Proin feugiat risus quis magna sagittis, eget semper nisl tristique. Aenean maximus, enim nec dignissim tempus, lectus ante lobortis neque, nec pellentesque nunc lectus vel erat. Cras a augue tortor. Suspendisse fringilla dui ut aliquet ullamcorper. Nunc ultricies enim et suscipit blandit. Phasellus id enim ac elit consequat finibus.</p>
+<p>Sed ac egestas nisl. Sed vestibulum ac diam sit amet porta. Vivamus est neque, tristique quis tempor at, consequat a velit. Morbi sapien sem, posuere quis tellus a, volutpat efficitur odio. Sed in neque in turpis fermentum fermentum. Mauris non enim vitae tortor eleifend consectetur at id odio. Quisque non neque ac lorem finibus tristique vitae sit amet arcu. Etiam convallis ipsum vestibulum, laoreet sem ac, sagittis odio. Cras libero velit, sodales id ipsum vel, pretium molestie purus. Aliquam quis luctus lacus. Proin risus nunc, viverra vel semper nec, porta eu libero. Nam vitae lectus egestas, rhoncus ex porta, fermentum ex. Phasellus ullamcorper quis urna quis tempor.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/introduction-to-computer-science/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chat Format</title>
+		<link>/chat-format/</link>
+					<comments>/chat-format/#respond</comments>
+		
+		<dc:creator><![CDATA[admin_auvus]]></dc:creator>
+		<pubDate>Mon, 15 Dec 2014 09:46:12 +0000</pubDate>
+				<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[Post Formats Full Width]]></category>
+		<category><![CDATA[Post Formats with Sidebar]]></category>
+		<category><![CDATA[Product]]></category>
+		<guid isPermaLink="false">http://education.themerex.net/?p=46</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="sc_chat"><div class="sc_chat_inner"><div class="sc_chat_avatar"><img class="wp-post-image" width="110" height="110" alt="sport-player-04.jpg" src="http://47.242.71.16/wp-content/uploads/2014/12/sport-player-04.jpg"></div><div class="sc_chat_title"><a href="#">Douglas Adams</a></div><div class="sc_chat_content"><p>Cras cursus eros vel commodo tincidunt. Donec ac urna eget velit bibendum aliquam. Phasellus tempor urna erat, a fringilla elit vulputate.</p></div></div></div><div class="sc_chat"><div class="sc_chat_inner"><div class="sc_chat_avatar"><img class="wp-post-image" width="110" height="110" alt="sport-player-09.jpg" src="http://47.242.71.16/wp-content/uploads/2014/12/sport-player-09.jpg"></div><div class="sc_chat_title"><a href="#">Joanna Doe</a></div><div class="sc_chat_content"><p>Vivamus euismod mauris id sodales tincidunt. Aliquam est nibh, fringilla nec elit ut, molestie dictum tellus.</p></div></div></div><br />
+<span id="more-46"></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/chat-format/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Aside Format</title>
+		<link>/aside-format/</link>
+					<comments>/aside-format/#respond</comments>
+		
+		<dc:creator><![CDATA[admin_auvus]]></dc:creator>
+		<pubDate>Wed, 10 Dec 2014 09:48:17 +0000</pubDate>
+				<category><![CDATA[Post Formats]]></category>
+		<category><![CDATA[Post Formats Full Width]]></category>
+		<category><![CDATA[Post Formats with Sidebar]]></category>
+		<guid isPermaLink="false">http://education.themerex.net/?p=48</guid>
+
+					<description><![CDATA[Vivamus euismod mauris id sodales tincidunt. Aliquam est nibh, fringilla nec elit ut, molestie dictum tellus. Proin porta egestas nisi a bibendum. Maecenas dictum semper nulla sed bibendum.]]></description>
+										<content:encoded><![CDATA[<p>Vivamus euismod mauris id sodales tincidunt. Aliquam est nibh, fringilla nec elit ut, molestie dictum tellus. Proin porta egestas nisi a bibendum. Maecenas dictum semper nulla sed bibendum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/aside-format/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,32 @@
+@charset 'utf-8';
+/*
+ Theme Name:	GYM
+ Theme URI:		http://gym.axiomthemes.com/
+ Description:	GYM - Wordpress theme
+ Author:		axiomthemes
+ Author URI:	http://themeforest.net/user/axiomthemes/portfolio
+ Template:		gym
+ Version:		1.0
+ Tags:			light, theme-options
+ Text Domain:	axiomthemes
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+@import url("/wp-content/themes/gym/style.css"); 
+
+.menu_main_wrap .menu_main_nav > li > a > span {font-size: 75%;}
+
+#tab_control_1 ul
+{
+margin: auto;
+padding: 0;
+list-style-type: none;
+text-align: center;
+}
+
+#tab_control_1 ul li {display: inline-block; float: none;}
+
+#tab_control_1 ul li a {font-size: 80%; width: 8vw;}

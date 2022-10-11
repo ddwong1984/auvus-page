@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="zh-HK">
 <head>
 	<meta charset="UTF-8">
 			<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -13,8 +13,8 @@
 <link rel="alternate" href="/hk/home-hk/" hreflang="zh-HK">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="alternate" type="application/rss+xml" title="Auvus &raquo; Feed" href="/feed/">
-<link rel="alternate" type="application/rss+xml" title="Auvus &raquo; Comments Feed" href="/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="訂閱 Auvus &raquo;" href="/hk/feed/">
+<link rel="alternate" type="application/rss+xml" title="訂閱 Auvus &raquo; 評論" href="/hk/comments/feed/">
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"\\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -56,14 +56,14 @@ img.emoji {
 <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.2.6" id="tp-tools-js"></script>
 <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6" id="revmin-js"></script>
 <link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/2018">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/2692">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 5.7.1">
-<link rel="canonical" href="">
+<link rel="canonical" href="/hk/home-hk/">
 <link rel="shortlink" href="">
-<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F">
-<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F&#038;format=xml">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fhk%2Fhome-hk%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fhk%2Fhome-hk%2F&#038;format=xml">
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 <meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
 <!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
@@ -73,7 +73,7 @@ img.emoji {
 </head>
 
 
-<body class="home page-template-default page page-id-2018 themerex_body body_style_wide body_transparent theme_skin_default article_style_boxed layout_single-standard template_single-standard top_panel_style_dark top_panel_opacity_transparent top_panel_show top_panel_over menu_right user_menu_hide sidebar_hide wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
+<body class="home page-template-default page page-id-2692 themerex_body body_style_fullscreen body_transparent theme_skin_default article_style_boxed layout_single-standard template_single-standard top_panel_style_dark top_panel_opacity_transparent top_panel_show top_panel_over menu_right user_menu_hide sidebar_hide wpb-js-composer js-comp-ver-4.11.2.1 vc_responsive">
 	
 	
 	
@@ -92,7 +92,7 @@ img.emoji {
 					<div class="content_wrap clearfix">
 						<div class="logo">
                             <span class="logo_shape">
-                                							<a href=""><img src="/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_main" alt=""><img src="/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_fixed" alt=""><span class="logo_slogan"> </span></a>
+                                							<a href="/hk/home-hk"><img src="/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_main" alt=""><img src="/wp-content/uploads/2015/06/AUVUS-logo-v4.2.png" class="logo_fixed" alt=""><span class="logo_slogan"> </span></a>
                             </span>
 						</div>
 						
@@ -119,10 +119,10 @@ img.emoji {
 </li>
 <li id="menu-item-2369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2369"><a href="/contact-us/"><span>Contact Us</span></a></li>
 <li id="menu-item-2543" class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2543">
-<a href="#pll_switcher"><span>English</span></a>
+<a href="#pll_switcher"><span>中文(繁體)</span></a>
 <ul class="sub-menu">
-	<li id="menu-item-2543-zh" class="lang-item lang-item-285 lang-item-zh lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-zh"><a href="/zh/home-zh/" hreflang="zh-CN" lang="zh-CN"><span>中文(简體)</span></a></li>
-	<li id="menu-item-2543-hk" class="lang-item lang-item-299 lang-item-hk menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-hk"><a href="/hk/home-hk/" hreflang="zh-HK" lang="zh-HK"><span>中文(繁體)</span></a></li>
+	<li id="menu-item-2543-en" class="lang-item lang-item-244 lang-item-en lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-en"><a href="" hreflang="en-US" lang="en-US"><span>English</span></a></li>
+	<li id="menu-item-2543-zh" class="lang-item lang-item-285 lang-item-zh menu-item menu-item-type-custom menu-item-object-custom menu-item-2543-zh"><a href="/zh/home-zh/" hreflang="zh-CN" lang="zh-CN"><span>中文(简體)</span></a></li>
 </ul>
 </li>
 </ul>						</nav>
@@ -134,15 +134,14 @@ img.emoji {
 			<div class="page_content_wrap">
 
 				
-<div class="content_wrap">
 <div class="content">
-<article class="itemscope post_item post_item_single post_featured_default post_format_standard post-2018 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article">
+<article class="itemscope post_item post_item_single post_featured_default post_format_standard post-2692 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article">
 <section class="post_content" itemprop="articleBody"><div class="sc_reviews alignright"><!-- #TRX_REVIEWS_PLACEHOLDER# --></div>
 <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_single_image wpb_content_element vc_align_left">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="2500" height="3502" src="/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="/wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2.png 2500w, /wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-214x300.png 214w, /wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-768x1076.png 768w, /wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-731x1024.png 731w, /wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-750x1051.png 750w, /wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-400x560.png 400w, /wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-250x350.png 250w, /wp-content/uploads/2017/07/ATC-web2016-Vr5-01.2-1150x1611.png 1150w" sizes="(max-width: 2500px) 100vw, 2500px"></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1306" height="1848" src="/wp-content/uploads/2017/08/3-8-2017-AUVUS-web-page-V2.2.png" class="vc_single_image-img attachment-full" alt="" loading="lazy" srcset="/wp-content/uploads/2017/08/3-8-2017-AUVUS-web-page-V2.2.png 1306w, /wp-content/uploads/2017/08/3-8-2017-AUVUS-web-page-V2.2-212x300.png 212w, /wp-content/uploads/2017/08/3-8-2017-AUVUS-web-page-V2.2-768x1087.png 768w, /wp-content/uploads/2017/08/3-8-2017-AUVUS-web-page-V2.2-724x1024.png 724w, /wp-content/uploads/2017/08/3-8-2017-AUVUS-web-page-V2.2-750x1061.png 750w, /wp-content/uploads/2017/08/3-8-2017-AUVUS-web-page-V2.2-400x566.png 400w, /wp-content/uploads/2017/08/3-8-2017-AUVUS-web-page-V2.2-250x354.png 250w, /wp-content/uploads/2017/08/3-8-2017-AUVUS-web-page-V2.2-1150x1627.png 1150w" sizes="(max-width: 1306px) 100vw, 1306px"></div>
 		</figure>
 	</div>
 </div></div></div></div>
@@ -173,7 +172,7 @@ img.emoji {
 <div class="sc_section cascade bg_tint_dark"><div class="sc_section" style="margin-top:20px !important;margin-right:100px !important;margin-bottom:20px !important;margin-left:100px !important;">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<h4>The vibration machine emits soothing and gentle waves of therapeutic vibrations from the platform to exercise and stimulate the whole body. The ergonomically designed handlebar can be adjusted to each user ’s personal preference.</h4>
+			<h4>應對現代社會繁忙的生活帶來對身體不良的影響，身心筋肌振動儀的垂直振動功能可提供使用者一項另類有功效的健身運動，使用者得到的感受，只有少數高檔貴昂商業運動機才能提供。保健振盪運動機的垂直振動功能可以令使用者肌肉收緊及快速盪動，刺激身體的不同部位，對不同年齡的使用者都會產生意想不到的好處。</h4>
 
 		</div>
 	</div>
@@ -184,7 +183,7 @@ img.emoji {
 <div class="vc_empty_space" style="height: 4.5em"><span class="vc_empty_space_inner"></span></div>
 <h2 class="sc_title sc_title_regular">
 </h2>
-<p style="text-align: center;">CONTACT US</p>
+<p style="text-align: center;">聯絡我們</p>
 <p></p>
 </div></div>
 <div class="sc_content content_wrap"><div class="sc_section bg_tint_dark">
@@ -194,7 +193,8 @@ img.emoji {
 <div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<h6>Auvus Technology Corporation Limited</h6>
+			<h6>歐華科技有限公司<br>
+Auvus Technology Corporation Limited</h6>
 
 		</div>
 	</div>
@@ -204,7 +204,7 @@ img.emoji {
 <div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: left;">Showroom:</p>
+			<p>Showroom:</p>
 
 		</div>
 	</div>
@@ -212,7 +212,7 @@ img.emoji {
 <div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: left;">Unit A, 9/F., 403 Castle Peak Road,<br>
+			<p>Unit A, 9/F., 403 Castle Peak Road,<br>
 Kwai Chung, NT., Hong Kong</p>
 
 		</div>
@@ -224,7 +224,7 @@ Kwai Chung, NT., Hong Kong</p>
 <div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: left;">Email :</p>
+			<p>Email :</p>
 
 		</div>
 	</div>
@@ -243,7 +243,7 @@ Kwai Chung, NT., Hong Kong</p>
 <div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: left;">Hotline :</p>
+			<p>Hotline :</p>
 
 		</div>
 	</div>
@@ -251,7 +251,7 @@ Kwai Chung, NT., Hong Kong</p>
 <div class="wpb_column vc_column_container vc_col-sm-8"><div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: left;">(852)9838 9842</p>
+			<p>(852)9838 9842</p>
 
 		</div>
 	</div>
@@ -259,17 +259,17 @@ Kwai Chung, NT., Hong Kong</p>
 </div>
 </div>
 <div class="column-1_2 sc_column_item sc_column_item_2 even">
-<div role="form" class="wpcf7" id="wpcf7-f3562-p2018-o1" lang="en-US" dir="ltr">
+<div role="form" class="wpcf7" id="wpcf7-f3562-p2692-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response">
 <p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul>
 </div>
-<form action="/#wpcf7-f3562-p2018-o1" method="post" class="wpcf7-form init cf7-style transparent-two-columns" novalidate="novalidate" data-status="init">
+<form action="/hk/home-hk/#wpcf7-f3562-p2692-o1" method="post" class="wpcf7-form init cf7-style transparent-two-columns" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="3562">
 <input type="hidden" name="_wpcf7_version" value="5.4.1">
 <input type="hidden" name="_wpcf7_locale" value="en_US">
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3562-p2018-o1">
-<input type="hidden" name="_wpcf7_container_post" value="2018">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f3562-p2692-o1">
+<input type="hidden" name="_wpcf7_container_post" value="2692">
 <input type="hidden" name="_wpcf7_posted_data_hash" value="">
 </div>
 <p><label><br>
@@ -293,11 +293,10 @@ Kwai Chung, NT., Hong Kong</p>
 </div></div>
 </div></div></div>
 </div></div></div></div>
-				</section> <!-- </section> class="post_content" itemprop="articleBody"> -->
-			</article> <!-- </article> class="itemscope post_item post_item_single post_featured_default post_format_standard post-2018 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article"> -->	<section class="related_wrap related_wrap_empty"></section>
+			</section> <!-- </section> class="post_content" itemprop="articleBody"> -->
+		</article> <!-- </article> class="itemscope post_item post_item_single post_featured_default post_format_standard post-2692 page type-page status-publish hentry" itemscope itemtype="http://schema.org/Article"> -->	<section class="related_wrap related_wrap_empty"></section>
 	
-		</div> <!-- </div> class="content"> -->
-	</div> <!-- </div> class="content_wrap"> -->			
+	</div> <!-- </div> class="content"> -->			
 			</div>		<!-- </.page_content_wrap> -->
 			
 								<footer class="user_footer_wrap"><p style="padding-top: 15px;"><span style="float: left;"><a style="color: grey; font-size: 90%;" href="/terms-of-use-privacy/">                Terms of Use</a> | <a style="color: grey; font-size: 90%;" href="#">Privacy</a></span><span style="float: right; color: grey; font-size: 90%;">Copyright (C) 2017 Auvus Technology Corporation Limited                </span></p></footer>
@@ -330,7 +329,7 @@ var wpcf7 = {"api":{"root":"\\/wp-json\/","namespace":"contact-form-7\/v1"}};
 <script type="text/javascript" src="/wp-content/themes/gym/fw/js/jquery.slidemenu.js" id="themerex-slidemenu-script-js"></script>
 <script type="text/javascript" src="/wp-content/themes/gym/fw/js/core.utils.js" id="themerex-core-utils-script-js"></script>
 <script type="text/javascript" src="/wp-content/themes/gym/fw/js/core.init.js" id="themerex-core-init-script-js"></script>
-<script type="text/javascript" id="mediaelement-core-js-before">var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};</script>
+<script type="text/javascript" id="mediaelement-core-js-before">var mejsL10n = {"language":"zh","strings":{"mejs.download-file":"下載檔案","mejs.install-flash":"您正在使用未啟用或安裝Flash播放器的瀏覽器。請打開您的Flash Player外掛程式或從https:\/\/get.adobe.com\/flashplayer\/ 下載最新版本","mejs.fullscreen":"全螢幕","mejs.play":"播放","mejs.pause":"暂停","mejs.time-slider":"時間軸","mejs.time-help-text":"使用左\/右鍵進退每一秒，向上\/向下進退每十秒。","mejs.live-broadcast":"直播","mejs.volume-help-text":"使用上\/下鍵來增大或減小音量。","mejs.unmute":"取消靜音","mejs.mute":"靜音","mejs.volume-slider":"音量調節","mejs.video-player":"視訊播放器","mejs.audio-player":"音訊播放器","mejs.captions-subtitles":"字幕","mejs.captions-chapters":"章節","mejs.none":"無","mejs.afrikaans":"南非文","mejs.albanian":"阿爾巴尼亞文","mejs.arabic":"阿拉伯文","mejs.belarusian":"白俄文","mejs.bulgarian":"保加利亞文","mejs.catalan":"加泰羅尼亞文","mejs.chinese":"中文","mejs.chinese-simplified":"中文 (簡體)","mejs.chinese-traditional":"中文 (繁體)","mejs.croatian":"克羅地亞文","mejs.czech":"捷克文","mejs.danish":"丹麥文","mejs.dutch":"荷蘭文","mejs.english":"英文","mejs.estonian":"愛沙尼亞文","mejs.filipino":"菲律賓文","mejs.finnish":"芬蘭文","mejs.french":"法文","mejs.galician":"加利西亞文","mejs.german":"德文","mejs.greek":"希臘文","mejs.haitian-creole":"海地克里奧爾文","mejs.hebrew":"希伯來文","mejs.hindi":"印地文","mejs.hungarian":"匈牙利文","mejs.icelandic":"冰島文","mejs.indonesian":"印尼文","mejs.irish":"愛爾蘭文","mejs.italian":"意大利文","mejs.japanese":"日文","mejs.korean":"韓文","mejs.latvian":"拉托維亞文","mejs.lithuanian":"立陶宛文","mejs.macedonian":"馬其頓文","mejs.malay":"馬來文","mejs.maltese":"馬爾他文","mejs.norwegian":"挪威文","mejs.persian":"波斯文","mejs.polish":"波蘭文","mejs.portuguese":"葡萄牙文","mejs.romanian":"羅馬尼亞文","mejs.russian":"俄文","mejs.serbian":"塞爾維亞文","mejs.slovak":"斯洛伐克文","mejs.slovenian":"斯洛文尼亞文","mejs.spanish":"西班牙文","mejs.swahili":"斯瓦希里文","mejs.swedish":"瑞典文","mejs.tagalog":"塔加拉族文","mejs.thai":"泰文","mejs.turkish":"土耳其文","mejs.ukrainian":"烏克蘭文","mejs.vietnamese":"越南文","mejs.welsh":"威爾士文","mejs.yiddish":"意第緒文"}};</script>
 <script type="text/javascript" src="/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16" id="mediaelement-core-js"></script>
 <script type="text/javascript" src="/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.7.1" id="mediaelement-migrate-js"></script>
 <script type="text/javascript" id="mediaelement-js-extra">

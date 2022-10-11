@@ -268,7 +268,7 @@ img.emoji {
 <div class="wpb_gmaps_widget wpb_content_element">
 		<div class="wpb_wrapper">
 		<div class="wpb_map_wraper">
-			<iframe src="https://maps.google.com/maps?q=400%20Castle%20Peak%20Road%20Reason%20Group%20Tower%20Kwai%20Chung&t=&z=17&ie=UTF8&iwloc=&output=embed" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>		</div>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.721125011322!2d114.13329311434248!3d22.364156485290454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3403f8997fc5356b%3A0xd8b36c48c9fea835!2sa%2C+Reason+Group+Tower%2C+403-413+Castle+Peak+Rd%2C+Kwai+Chung!5e0!3m2!1sen!2shk!4v1500525295170" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>		</div>
 	</div>
 </div>
 </div>
